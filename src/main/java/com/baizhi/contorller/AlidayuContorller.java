@@ -50,6 +50,6 @@ public class AlidayuContorller {
             //请求成功
         }
     }
-    public void test(){
-    }
+   
+    
 }
