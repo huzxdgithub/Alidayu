@@ -50,4 +50,8 @@ public class AlidayuContorller {
             //请求成功
         }
     }
+	//测试Git推送数据	
+    public void test(){
+	
+	}
 }
