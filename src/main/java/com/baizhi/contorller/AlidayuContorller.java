@@ -51,9 +51,9 @@ public class AlidayuContorller {
         }
     }
 	//测试Git推送数据	
-    public void test(){
-	
+	    public void test(){
+		System.out.println("haha");
 	}
    
-    
+   
 }
