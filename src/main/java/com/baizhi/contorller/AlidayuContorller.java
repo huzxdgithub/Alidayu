@@ -50,8 +50,13 @@ public class AlidayuContorller {
             //请求成功
         }
     }
+<<<<<<< HEAD
 	//测试Git推送数据	
     public void test(){
 	
 	}
+=======
+   
+    
+>>>>>>> ce4941fd57b3d301559c070eb4a89c5b01ea4298
 }
