@@ -1,0 +1,27 @@
+[33m34a85ed[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: commit (merge): add
+[33mc0bbf9c[m HEAD@{1}: commit: add
+[33m90f4085[m HEAD@{2}: commit (merge): add
+[33m763b751[m HEAD@{3}: commit: add
+[33m7965a80[m HEAD@{4}: commit: add
+[33mef68852[m HEAD@{5}: reset: moving to ef68852
+[33mce4941f[m HEAD@{6}: commit: add
+[33me979d93[m HEAD@{7}: pull origin master: Fast-forward
+[33m76625b7[m HEAD@{8}: commit: delete
+[33mef68852[m HEAD@{9}: reset: moving to HEAD~1
+[33m9ec2c66[m HEAD@{10}: commit: yes
+[33mef68852[m HEAD@{11}: reset: moving to ef68852
+[33m6f12d6e[m HEAD@{12}: commit: hu
+[33mef68852[m HEAD@{13}: reset: moving to ef68852
+[33m1cd90ed[m HEAD@{14}: commit: delete
+[33m6a9024e[m HEAD@{15}: reset: moving to 6a9024e
+[33mef68852[m HEAD@{16}: reset: moving to ef68852
+[33m6a2fe14[m HEAD@{17}: reset: moving to 6a2fe14
+[33m6a2fe14[m HEAD@{18}: commit: delete
+[33mef68852[m HEAD@{19}: reset: moving to ef68852
+[33mef68852[m HEAD@{20}: commit: v7.0
+[33mcd4f77c[m HEAD@{21}: commit: v6.0
+[33m6a9024e[m HEAD@{22}: reset: moving to 6a9024e
+[33mb2d2be9[m HEAD@{23}: reset: moving to HEAD~1
+[33m6a9024e[m HEAD@{24}: commit: v5.0
+[33mb2d2be9[m HEAD@{25}: commit: v2.0
+[33m171b8b5[m HEAD@{26}: commit (initial): v1.0
